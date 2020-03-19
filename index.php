@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    PRUEBA PAGE
+    PRUEBA PAGE 2
 </body>
 </html>
